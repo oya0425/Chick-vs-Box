@@ -2,10 +2,7 @@
 
 DirectX11 / C++ で制作した、スピード感あふれる3Dアクションゲームです。
 逃げ回る「BoxUnity（敵）」を撃破し、全5WAVEのクリアを目指します。
-
-![ゲーム画面のスクリーンショットをここに貼る（推奨）](https://via.placeholder.com/800x450.png?text=Game+Screenshot)
-<img width="128" height="128" alt="keyboard_s_outline" src="https://github.com/user-attachments/assets/a1c2fcab-6b9c-4eaf-a07f-13150e8f85c2" />
-
+<img width="1598" height="888" alt="image" src="https://github.com/user-attachments/assets/e1e09240-d669-48b6-ba92-d6196a219e14" />
 ---
 
 ## 🎮 ゲーム概要
